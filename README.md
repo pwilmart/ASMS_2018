@@ -1,5 +1,8 @@
-# ASMS2018
+# ASMS_2018
+
 Poster presented at 2018 San Diego ASMS meeting, Thursday 389.
+
+---
 
 Explains how to match reporter ion intensities (typically summed into protein totals) between multiple TMT experiments. Many study designs will exceed the current capacity (11 channels) and multiple TMT experiments will be needed to accommodate the samples.
 
