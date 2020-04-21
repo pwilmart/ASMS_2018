@@ -6,6 +6,10 @@
 
 ---
 
+![whole poster](images/Slide1.png)
+
+---
+
 #### Left Panel
 
 Many biological studies will have more than 11 samples and need more than one TMT experiment (a labeling kit or TMT plex). We have pretty good methods for adjusting (normalizing) reporter ions within a single TMT experiment. Those methods typically **fail** when adjusting reporter ions **between** multiple TMT plexes ([Ref. 1](https://www.mcponline.org/content/16/5/873.short)).
